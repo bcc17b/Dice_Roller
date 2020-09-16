@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">Dice Roller</string>
+    <string name="bad_luck">Epic Fail!</string>
+    <string name="good_luck">Crit!!</string>
 </resources>
